@@ -21,3 +21,6 @@ This repo provides an application of NLP tools in a corpus extracted from the ly
 - Googletrans
 - BeautifulSoup
 - Gensim
+
+### Results
+Due to the song talks about one topic essentially, the returned topics presents quite similarities between them
